@@ -1,0 +1,6 @@
+@APITiendaComida_HostAddress = http://localhost:5293
+
+GET {{APITiendaComida_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
